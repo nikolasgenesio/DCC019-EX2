@@ -1,6 +1,6 @@
 <h1 align="center">Exercício 2</h1>
 
-<p align="center">Atividade desenvolvida em Racket durante a disciplina de Linguagem de Programação (DCC019)</p>
+<p align="center">Atividade desenvolvida em Racket durante a disciplina de Linguagem de Programação (DCC019).</p>
 
 ## 1. Extensão da Linguagem LET
 
